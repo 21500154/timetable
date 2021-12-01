@@ -95,7 +95,7 @@ Execute the program
 ## Server Side Output :
 ![output](./images/img2.png)
 
-## Validator
+## Validator :
 ![output](./images/img3.png)
 
 ## RESULT:
