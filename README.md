@@ -16,14 +16,14 @@ Execute the program
 # CODE
 ```
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
 <title>MY TIMETABLE</title>
 </head>
-<body style="background-color:purple">
-<img src="https://www.saveetha.ac.in/images/WEB_LOGO-01.png" width="100%" height="200">
+<body style="background-color:violet">
+<img src="https://www.saveetha.ac.in/images/WEB_LOGO-01.png" alt="college logo" width="400" height="200">
 <h1 style ="text-align:center;">FIRST SEMESTER TIMETABLE</h1>
-<table="1" cellspacing="1" bordercolour="brown" bgcolour="skyblue" width="100%">
+<table>
 
     <tr>
          
@@ -48,28 +48,28 @@ Execute the program
     </tr>
     <tr>
 
-         <td style="background-color:red; text-align:center;">MONDAY</td>   
-         <td colspan="2" style="background-color:rgb(45, 240, 240); height:30px; text-align: center;">Fundamentals Of Web Technology</td>
-         <td colspan="2" style="background-color:rgb(45, 240, 240); height:30px; text-align: center;">Linear Algebra Laboratory</td>
-         <td colspan="2" style="background-color:rgb(45, 240, 240); height:30px; text-align: center;">Mathematics for Artificial Intelligence</td>
+         <td style="background-color:deepskyblue; text-align:center;">MONDAY</td>   
+         <td colspan="2" style="background-color:hotpink; height:30px; text-align: center;">Fundamentals Of Web Technology</td>
+         <td colspan="2" style="background-color:hotpink; height:30px; text-align: center;">Linear Algebra Laboratory</td>
+         <td colspan="2" style="background-color:hotpink; height:30px; text-align: center;">Mathematics for Artificial Intelligence</td>
     </tr>
     <tr>
 
-         <td style="background-color:orchid; text-align:center;">TUESDAY</td>
+         <td style="background-color:salmon; text-align:center;">TUESDAY</td>
          <td colspan="2" style="background-color:palegreen; height:30px; text-align: center;">Free Time</td>
          <td colspan="2" style="background-color:palegreen; height:30px; text-align: center;">Engineering Design and Modeling</td>
          <td colspan="2" style="background-color:palegreen; height:30px; text-align: center;">Engineering Mechanics and Product Development</td>
     </tr>
     <tr>
 
-         <td style="background-color:burlywood; text-align:center;">WEDNESDAY</td>
-         <td colspan="2" style="background-color:crimson; height:30px; text-align: center;">Free Time</td>
-         <td colspan="2" style="background-color:crimson; height:30px; text-align: center;">Python Programming</td>
-         <td colspan="2" style="background-color:crimson; height:30px; text-align: center;">Fundamentals Of Web Technology</td>
+         <td style="background-color:lightgoldenrodyellow; text-align:center;">WEDNESDAY</td>
+         <td colspan="2" style="background-color:rgb(250, 102, 4); height:30px; text-align: center;">Free Time</td>
+         <td colspan="2" style="background-color:rgb(250, 102, 4); height:30px; text-align: center;">Python Programming</td>
+         <td colspan="2" style="background-color:rgb(250, 102, 4); height:30px; text-align: center;">Fundamentals Of Web Technology</td>
     </tr>
     <tr>
      
-         <td style="background-color:orangered; text-align:center;">THURSDAY</td>
+         <td style="background-color:rgb(0, 255, 98); text-align:center;">THURSDAY</td>
          <td colspan="2" style="background-color:palevioletred; height:30px; text-align: center;">Engineering Mechanics and Product Development</td>
          <td colspan="2" style="background-color:palevioletred; height:30px; text-align: center;">Python Programming</td>
          <td colspan="2" style="background-color:palevioletred; height:30px; text-align: center;">Engineering Design and Modeling</td>
@@ -87,4 +87,4 @@ Execute the program
 </html>    
 ```
 
-# OUPUT
+# OUTPUT
