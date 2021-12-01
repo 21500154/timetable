@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>MY TIMETABLE</title>
+</head>
+<body style="background-colour:purple">
+img src="https://www.saveetha.ac.in/images/WEB_LOGO-01.png"width="100%"height="200">
+<h1 style ="text-allign:center;"FIRST SEMESTER TIMETABLE</h1>
+<table border="1" cellspacing="1" bordercolour="brown" bgcolour="skyblue" width="100%">
+
+    <tr>
+         <th colspan="8" height="40px" style="background-colour:yellow">TIMETABLE</th>
+    </tr>
+    <tr bgcolour="palegreen">
+         <th colspan="4" height="40px">NAME:D.S.DHARSHINI</th>
+         <th colspan="8" height="40px">REFERENCE NO:21500154</th>
+    </tr>
+    <tr height="40px">
+         <th style=<background-colour:white">DAY</th>
+         <th style=<background-colour:white">1</th> 
+         <th style=<background-colour:white">2</th> 
+         <th style=<background-colour:white">3</th> 
+         <th style=<background-colour:white">4</th>
+         <th rowspan="6" bgcolour="magenta">LUNCH BREAK</th>
+         <th style=<background-colour:white">5</th> 
+         <th style=<background-colour:white">6</th> 
