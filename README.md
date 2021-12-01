@@ -13,7 +13,7 @@ Add your timetable
 ### STEP 4
 Execute the program
 
-# CODE
+## CODE
 ```
 <!DOCTYPE html>
 <html lang="en">
@@ -87,4 +87,17 @@ Execute the program
 </html>    
 ```
 
-# OUTPUT
+## OUTPUT
+
+## Client Side Output : 
+![output](./images/img1.png)
+
+## Server Side Output :
+![output](./images/img2.png)
+
+## Validator
+![output](./images/img3.png)
+
+## RESULT:
+
+A html webpage to display my timetable is developed
